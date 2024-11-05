@@ -1,0 +1,13 @@
+{
+  "name": "t3w4-tuesday",
+  "version": "1.0.0",
+  "description": "- What is Asynchronous coding\r - Threads, call stack, event loop, browser APIs\r - JS Promises\r - .then callback functions\r - Catch and finally\r - File I/O promises",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/scripts/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
